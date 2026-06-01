@@ -1,140 +1,48 @@
-````md
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Building+TravelLoop;Hackathon+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1200&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Hackathon+Enthusiast" />
 </p>
 
-<div align="center">
+<h1 align="center">Hi 👋, I'm Fenil Patel</h1>
 
-# 👋 Hey, I'm Fenil Patel
-
-### Full-Stack Developer
-
-React • Next.js • TypeScript • Node.js
-
-Building startup-ready products 🚀
-
-</div>
+<p align="center">
+Full-Stack Developer building modern web applications with React, Next.js and TypeScript.
+</p>
 
 ---
 
-# 🧩 Dashboard
+## ⚡ Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express,mongodb,postgres,git,github,vscode" />
+</p>
 
-### 🚀 Building
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=fenil010&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fenil010&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenil010&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 - ✈️ TravelLoop
 - 🏢 HR Management System
 - 💰 Expense Tracker
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📚 Learning
-
-- System Design
-- Odoo Development
-- AI Workflows
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Stack
-
-- React
-- Next.js
-- TypeScript
-- Node.js
-- PostgreSQL
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎯 Focus
-
-- Production Apps
-- Hackathons
-- Startup Products
-- Open Source
-
-</td>
-</tr>
-</table>
+- 🏠 Rental Management System
 
 ---
-
-# ⚡ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express,mongodb,mysql,postgres,docker,git,github,vscode,figma" />
+Building products, not just projects 🚀
 </p>
-
----
-
-# 📦 Featured Projects
-
-### ✈️ TravelLoop
-Travel planning and itinerary management platform.
-
-### 🏢 HR Management System
-Modern employee management solution.
-
-### 💰 Expense Tracker
-Track budgets, spending, and analytics.
-
-### 🏠 Rental Management System
-Property and tenant management platform.
-
----
-
-# 📊 Current Status
-
-```txt
-🟢 Learning     → System Design
-🟢 Building     → TravelLoop
-🟢 Exploring    → AI + Odoo
-🟢 Goal         → Build startup-scale products
-````
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fenil010&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenil010&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fenil010&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fenil010&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-# 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fenil010&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-<div align="center">
-
-### 💭 Building products, not just projects.
-
-</div>
-```
